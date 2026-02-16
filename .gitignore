@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Large data files (if over 100MB)
+# *.csv
+# *.xlsx
