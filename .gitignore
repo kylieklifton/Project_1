@@ -12,3 +12,4 @@ __pycache__/
 # Large data files (if over 100MB)
 # *.csv
 # *.xlsx
+.claude/
